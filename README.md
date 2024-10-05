@@ -12,13 +12,13 @@
 ## Languages
 <p>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white"/>
     
 </p>
 
 ## Frameworks and tools
 <p>
     <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white"/>
     
 </p>
 
